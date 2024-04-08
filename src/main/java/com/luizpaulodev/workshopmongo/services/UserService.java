@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 
 import com.luizpaulodev.workshopmongo.domain.User;
 import com.luizpaulodev.workshopmongo.dto.UserDTO;
-import com.luizpaulodev.workshopmongo.repositoty.UserRepository;
+import com.luizpaulodev.workshopmongo.repository.UserRepository;
 import com.luizpaulodev.workshopmongo.services.exception.ObjectNotFoundException;
 
 @Service
